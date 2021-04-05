@@ -19,3 +19,7 @@
   border-bottom: 1px solid lightgray;
   padding: 10px;
 }
+
+.checkout__helloUser {
+  padding-left: 10px;
+}
