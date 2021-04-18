@@ -48,7 +48,7 @@ const Payment = () => {
       type: "EMPTY_BASKET",
     });
 
-    history.replace("/orders");
+    history.replace("/");
 
     // const payload = await stripe
     //   .confirmCardPayment(clientSecret, {
