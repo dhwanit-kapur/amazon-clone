@@ -20,7 +20,7 @@ const Header = () => {
       <Link to="/">
         <img
           className="header__logo"
-          src="https://alltimetrends.com/wp-content/uploads/2020/05/Amazon-logo.png"
+          src="https://www.doorwaysva.org/wp-content/uploads/2019/06/amazon-logo.png"
           alt="Amazon logo didn't load"
         />
       </Link>
